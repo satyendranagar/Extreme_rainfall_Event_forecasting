@@ -15,7 +15,9 @@ terms of mathematics.
 Due to the rampant cases of cutting down of trees, the protective effects of trees against
 flooding are slowly being removed. Therefore, the prediction of extreme rainfall events
 becomes even more important. We can do two types of rainfall event forecasting :-
+
 • Predicting rainfall over a few weeks or months in advance which is called Long Term
 predictions.
+
 • Predicting rainfall a few days in advance for a given area which is called Short Term
 predictions.
